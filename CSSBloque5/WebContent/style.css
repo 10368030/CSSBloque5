@@ -1,0 +1,29 @@
+h1{
+	text-align:center;
+	background-color: blue;
+	color: yellow;
+}
+
+p.parrafo1{
+	box-sizing: content-box;
+    display: inline-block;
+    width: 25%;   
+    height: 150px;
+    color: white;
+    background-color: green; 
+    margin: 0;
+}
+
+p.parrafo2{
+	box-sizing: content-box;
+    display: inline-block;
+   	width: 74%;
+	height: 100px;
+	color: yellow;
+	background-color: black;
+	margin: 0;
+}
+
+br.br1{
+	background-color: blue;
+}
